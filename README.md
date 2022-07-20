@@ -1,4 +1,4 @@
-# Skin2
+# Bilinear CNN using a matrix-similarity based joint loss function for skin disease classification.
 ## Dataset:
 The ISIC-2019 dataset used for model training can be downloaded from https://challenge.isic-archive.com/data/#2019.
 ### Method Algorithm:
@@ -15,4 +15,4 @@ Algorithm 1 Joint-Loss Function Optimization Algorithm.
 9: Update the parameter w_i " by " w_i^(t+1)=w_i^t-η (∂L_"joint " )/(∂w_i^t )
 10: return
 
-Bilinear CNN using a matrix-similarity based joint loss function for skin disease classification.
+
